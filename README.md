@@ -1,8 +1,8 @@
 # FlowSense
 
-ML pipeline to predict steroid dose (VH, MP20, MP200) from flow cytometry marker expression.
+I am developing an ML pipeline to predict steroid dose (VH, MP20, MP200) from flow cytometry data.
 
-🚧 **Project Status**: In progress: core pipeline complete, feature tuning and documentation ongoing,Currently mapping fluorochrome channels (e.g., Alexa Fluor 488-A) to known markers (e.g., CXCR4, CCR1) for biological interpretation.
+Project Status: In progress: core pipeline is complete, feature tuning and documentation is ongoing. I am currently mapping fluorochrome channels to known markers for biological interpretation.
 
 ## Dataset
 
